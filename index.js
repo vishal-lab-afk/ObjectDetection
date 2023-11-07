@@ -1,6 +1,6 @@
 // Below this line, create a variable storing your account token from Hugging Face. Name it ACCOUNT_TOKEN.
 /* Your code here */
-
+const ACCOUNT_TOKEN = "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";
 // Below this line, create a variable storing the Hugging Face API Endpoint. Name it API_ENDPOINT.
 /* Your code here */
 
